@@ -4,23 +4,25 @@
 
 import * as $$$$$$$$$$$$0 from "./apps/decohub.ts";
 import * as $$$$$$$$$$$$1 from "./apps/site.ts";
+import * as $$$$$$$6 from "./sections/blog/post.tsx";
 import * as $$$$$$$0 from "./sections/Footer.tsx";
 import * as $$$$$$$1 from "./sections/Hero.tsx";
 import * as $$$$$$$2 from "./sections/ItWorks.tsx";
-import * as $$$$$$$6 from "./sections/myHero.tsx";
+import * as $$$$$$$7 from "./sections/myHero.tsx";
 import * as $$$$$$$3 from "./sections/ParagraphList.tsx";
-import * as $$$$$$$7 from "./sections/sections/ItWorks.tsx";
+import * as $$$$$$$8 from "./sections/sections/ItWorks.tsx";
 import * as $$$$$$$4 from "./sections/SimpleTextList.tsx";
 import * as $$$$$$$5 from "./sections/Theme/Theme.tsx";
 
 const manifest = {
   "sections": {
+    "deco-sites/blog-demo/sections/blog/post.tsx": $$$$$$$6,
     "deco-sites/blog-demo/sections/Footer.tsx": $$$$$$$0,
     "deco-sites/blog-demo/sections/Hero.tsx": $$$$$$$1,
     "deco-sites/blog-demo/sections/ItWorks.tsx": $$$$$$$2,
-    "deco-sites/blog-demo/sections/myHero.tsx": $$$$$$$6,
+    "deco-sites/blog-demo/sections/myHero.tsx": $$$$$$$7,
     "deco-sites/blog-demo/sections/ParagraphList.tsx": $$$$$$$3,
-    "deco-sites/blog-demo/sections/sections/ItWorks.tsx": $$$$$$$7,
+    "deco-sites/blog-demo/sections/sections/ItWorks.tsx": $$$$$$$8,
     "deco-sites/blog-demo/sections/SimpleTextList.tsx": $$$$$$$4,
     "deco-sites/blog-demo/sections/Theme/Theme.tsx": $$$$$$$5,
   },
