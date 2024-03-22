@@ -62,7 +62,7 @@
     "path": "/",
     "sections": [
       {
-        "__resolveType": "deco-sites/blog-demo/sections/Hero.tsx"
+        "__resolveType": "Preview Sections Blog Post"
       }
     ],
     "__resolveType": "website/pages/Page.tsx"
@@ -92,13 +92,5 @@
       "directives": []
     },
     "__resolveType": "deco-sites/blog-demo/apps/site.ts"
-  },
-  "pages-Lorem%20Ipsum-258243": {
-    "sections": [
-      {
-        "__resolveType": "Preview Sections Blog Post"
-      }
-    ],
-    "__resolveType": "website/pages/Page.tsx"
   }
 }
