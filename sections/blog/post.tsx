@@ -1,7 +1,7 @@
 import type { BlogPost } from "apps/blog/loaders/Blogpost.ts";
 
 interface Props {
-  post: BlogPost;
+  post: BlogPost | null;
 }
 
 export default function BlogPostPage(props: Props) {
