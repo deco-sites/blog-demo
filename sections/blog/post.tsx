@@ -14,7 +14,6 @@ export default function BlogPostPage(props: Props) {
     date,
   } = props.post;
 
-
   return (
     <div className="mt-[60px] lg:mt-[99px]">
       <div class="max-w-[1660px]! lg:(w-container mx-auto) space-y-12 mx-[20px]">
